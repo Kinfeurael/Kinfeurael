@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm [Kinfeurael Wubishet]
 
-🚀 **[Your Title or Tagline]**
-- 🛠️ Software Developer | Data Scientist | Turning Data into Actionable Insights Insights
+🚀 **[🛠️ Software Developer]**
+- | Data Scientist | Turning Data into Actionable Insights Insights
 - Machine Learning Enthusiast | Solving problems with AI
 - 🌱 Currently learning **[AI]**
 - 📫 How to reach me: **[kinfeuraelwubishet@gmail.com]**
