@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Kinfeurael Wubishet]
 
-<!--
-**Kinfeurael/Kinfeurael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **[Your Title or Tagline]**
+- 🛠️ Software Developer | Data Scientist | Turning Data into Actionable Insights Insights
+- Machine Learning Enthusiast | Solving problems with AI
+- 🌱 Currently learning **[AI]**
+- 📫 How to reach me: **[kinfeuraelwubishet@gmail.com]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ **Tech Stack**
+- **Languages**: [e.g., Python, JavaScript, C++, c#]
+- **Frameworks/Libraries**: [e.g., React, Django, Flask]
+
+---
+
+### 🌟 **Projects**
+1. **[Project Name]**  
+   - Description: [Short project description]  
+   - [🔗 GitHub Repo](#) | [🌐 Live Demo](#)
+
+2. **[Project Name]**  
+   - Description: [Short project description]  
+   - [🔗 GitHub Repo](#) | [🌐 Live Demo](#)
+
+---
+
+### 📊 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kinfeurael&show_icons=true&theme=radical)
+
+---
+
+### 📫 **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kinfeurel1)  
+
+---
+
+**Thanks for stopping by! 😊**
