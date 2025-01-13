@@ -15,13 +15,6 @@
 ---
 
 ### 🌟 **Projects**
-1. **[Project Name]**  
-   - Description: [Short project description]  
-   - [🔗 GitHub Repo](#) | [🌐 Live Demo](#)
-
-2. **[Project Name]**  
-   - Description: [Short project description]  
-   - [🔗 GitHub Repo](#) | [🌐 Live Demo](#)
 
 ---
 
