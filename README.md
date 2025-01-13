@@ -1,16 +1,16 @@
-# Hi there! 👋 I'm [Kinfeurael Wubishet]
+# Hi there! 👋 I'm Kinfeurael Wubishet
 
-🚀 **[🛠️ Software Developer]**
+🚀 **🛠️ Software Developer**
 - | Data Scientist | Turning Data into Actionable Insights Insights
 - Machine Learning Enthusiast | Solving problems with AI
 - 🌱 Currently learning **[AI]**
-- 📫 How to reach me: **[kinfeuraelwubishet@gmail.com]**
+- 📫 How to reach me: **kinfeuraelwubishet@gmail.com**
 
 ---
 
 ### 🛠️ **Tech Stack**
-- **Languages**: [e.g., Python, JavaScript, C++, c#]
-- **Frameworks/Libraries**: [e.g., React, Django, Flask]
+- **Languages**: Python, JavaScript, C++, c#
+- **Frameworks/Libraries**: React, Django, Flask
 
 ---
 
